@@ -1,0 +1,10 @@
+*.shader linguist-vendored
+*.cginc linguist-vendored
+*.hlsl linguist-vendored
+*.compute linguist-vendored
+*.shadergraph linguist-vendored
+*.uss linguist-vendored
+*.uxml linguist-vendored
+Packages/** linguist-vendored
+Assets/Adaptive*/** linguist-vendored
+Assets/Settings/** linguist-vendored
